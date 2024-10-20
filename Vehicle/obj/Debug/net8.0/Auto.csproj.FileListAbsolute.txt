@@ -1,0 +1,14 @@
+D:\Образование\Progects_C#\Inheritance\Vehicle\bin\Debug\net8.0\Auto.exe
+D:\Образование\Progects_C#\Inheritance\Vehicle\bin\Debug\net8.0\Auto.deps.json
+D:\Образование\Progects_C#\Inheritance\Vehicle\bin\Debug\net8.0\Auto.runtimeconfig.json
+D:\Образование\Progects_C#\Inheritance\Vehicle\bin\Debug\net8.0\Auto.dll
+D:\Образование\Progects_C#\Inheritance\Vehicle\bin\Debug\net8.0\Auto.pdb
+D:\Образование\Progects_C#\Inheritance\Vehicle\obj\Debug\net8.0\Auto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Образование\Progects_C#\Inheritance\Vehicle\obj\Debug\net8.0\Auto.AssemblyInfoInputs.cache
+D:\Образование\Progects_C#\Inheritance\Vehicle\obj\Debug\net8.0\Auto.AssemblyInfo.cs
+D:\Образование\Progects_C#\Inheritance\Vehicle\obj\Debug\net8.0\Auto.csproj.CoreCompileInputs.cache
+D:\Образование\Progects_C#\Inheritance\Vehicle\obj\Debug\net8.0\Auto.dll
+D:\Образование\Progects_C#\Inheritance\Vehicle\obj\Debug\net8.0\refint\Auto.dll
+D:\Образование\Progects_C#\Inheritance\Vehicle\obj\Debug\net8.0\Auto.pdb
+D:\Образование\Progects_C#\Inheritance\Vehicle\obj\Debug\net8.0\Auto.genruntimeconfig.cache
+D:\Образование\Progects_C#\Inheritance\Vehicle\obj\Debug\net8.0\ref\Auto.dll

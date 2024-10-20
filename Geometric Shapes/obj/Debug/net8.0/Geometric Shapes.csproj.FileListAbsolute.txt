@@ -1,0 +1,14 @@
+D:\Образование\Progects_C#\Inheritance\Geometric Shapes\bin\Debug\net8.0\Geometric Shapes.exe
+D:\Образование\Progects_C#\Inheritance\Geometric Shapes\bin\Debug\net8.0\Geometric Shapes.deps.json
+D:\Образование\Progects_C#\Inheritance\Geometric Shapes\bin\Debug\net8.0\Geometric Shapes.runtimeconfig.json
+D:\Образование\Progects_C#\Inheritance\Geometric Shapes\bin\Debug\net8.0\Geometric Shapes.dll
+D:\Образование\Progects_C#\Inheritance\Geometric Shapes\bin\Debug\net8.0\Geometric Shapes.pdb
+D:\Образование\Progects_C#\Inheritance\Geometric Shapes\obj\Debug\net8.0\Geometric Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Образование\Progects_C#\Inheritance\Geometric Shapes\obj\Debug\net8.0\Geometric Shapes.AssemblyInfoInputs.cache
+D:\Образование\Progects_C#\Inheritance\Geometric Shapes\obj\Debug\net8.0\Geometric Shapes.AssemblyInfo.cs
+D:\Образование\Progects_C#\Inheritance\Geometric Shapes\obj\Debug\net8.0\Geometric Shapes.csproj.CoreCompileInputs.cache
+D:\Образование\Progects_C#\Inheritance\Geometric Shapes\obj\Debug\net8.0\Geometric Shapes.dll
+D:\Образование\Progects_C#\Inheritance\Geometric Shapes\obj\Debug\net8.0\refint\Geometric Shapes.dll
+D:\Образование\Progects_C#\Inheritance\Geometric Shapes\obj\Debug\net8.0\Geometric Shapes.pdb
+D:\Образование\Progects_C#\Inheritance\Geometric Shapes\obj\Debug\net8.0\Geometric Shapes.genruntimeconfig.cache
+D:\Образование\Progects_C#\Inheritance\Geometric Shapes\obj\Debug\net8.0\ref\Geometric Shapes.dll

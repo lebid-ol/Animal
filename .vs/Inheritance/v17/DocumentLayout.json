@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71B76B-07E8-4EDA-BB57-87B80B79AD20}|Geometric Shapes\\Geometric Shapes.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\inheritance\\geometric shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE71B76B-07E8-4EDA-BB57-87B80B79AD20}|Geometric Shapes\\Geometric Shapes.csproj|solutionrelative:geometric shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71B76B-07E8-4EDA-BB57-87B80B79AD20}|Geometric Shapes\\Geometric Shapes.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\inheritance\\geometric shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE71B76B-07E8-4EDA-BB57-87B80B79AD20}|Geometric Shapes\\Geometric Shapes.csproj|solutionrelative:geometric shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71B76B-07E8-4EDA-BB57-87B80B79AD20}|Geometric Shapes\\Geometric Shapes.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\inheritance\\geometric shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE71B76B-07E8-4EDA-BB57-87B80B79AD20}|Geometric Shapes\\Geometric Shapes.csproj|solutionrelative:geometric shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71B76B-07E8-4EDA-BB57-87B80B79AD20}|Geometric Shapes\\Geometric Shapes.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\inheritance\\geometric shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE71B76B-07E8-4EDA-BB57-87B80B79AD20}|Geometric Shapes\\Geometric Shapes.csproj|solutionrelative:geometric shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CAB19E-B90B-4505-9613-963F2D1BD93D}|Inheritance\\Inheritance.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\inheritance\\inheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CAB19E-B90B-4505-9613-963F2D1BD93D}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\Inheritance\\Geometric Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "Geometric Shapes\\Triangle.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\Inheritance\\Geometric Shapes\\Triangle.cs",
+              "RelativeToolTip": "Geometric Shapes\\Triangle.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:41:01.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\Inheritance\\Geometric Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Geometric Shapes\\Rectangle.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\Inheritance\\Geometric Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Geometric Shapes\\Rectangle.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:58:10.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\Inheritance\\Geometric Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Geometric Shapes\\Circle.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\Inheritance\\Geometric Shapes\\Circle.cs",
+              "RelativeToolTip": "Geometric Shapes\\Circle.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:38:06.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\Inheritance\\Geometric Shapes\\Program.cs",
+              "RelativeDocumentMoniker": "Geometric Shapes\\Program.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\Inheritance\\Geometric Shapes\\Program.cs",
+              "RelativeToolTip": "Geometric Shapes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:30:33.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\Inheritance\\Inheritance\\Dog.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Dog.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\Inheritance\\Inheritance\\Dog.cs",
+              "RelativeToolTip": "Inheritance\\Dog.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:12:55.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
